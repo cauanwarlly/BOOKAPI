@@ -75,16 +75,16 @@ pytest --cov=app tests/
 Cobertura atual:
 
 --------------------------------------------------------------------
-- `app\__init__.py`                                 18      0   100%
-- `app\config.py`                                    6      0   100%
-- `app\controllers\book_controller.py`              30      0   100%
-- `app\controllers\funcionario_controller.py`       28      0   100%
-- `app\models\book_model.py`                        10      0   100%
-- `app\models\funcionario_model.py`                  9      0   100%
-- `app\routes\book_routes.py`                       18      0   100%
-- `app\routes\funcionario_routes.py`                 8      0   100%
+- `app\__init__.py`: 100%
+- `app\config.py`: 100%
+- `app\controllers\book_controller.py`: 100%
+- `app\controllers\funcionario_controller.py`: 100%
+- `app\models\book_model.py`: 100%
+- `app\models\funcionario_model.py`: 100%
+- `app\routes\book_routes.py`: 100%
+- `app\routes\funcionario_routes.py`: 100%
+-  **TOTAL** : 100%
 ---------------------------------------------------------------------
-- **TOTAL**                                        127      0   100%
 
 ## 🛠️ Tecnologias Utilizadas
 
