@@ -72,7 +72,7 @@ def get_book(book_id):
       200:
         description: Livro encontrado com sucesso
       404:
-        description: Livro não encontrado
+        description: Livro não encontrado!
     """
     return book_controller.get_book(book_id)
 

@@ -17,6 +17,7 @@ def create_app(config_class=Config):
 
         from .routes.book_routes import book_bp
         from .routes.funcionario_routes import funcionario_bp
+
         
         app.register_blueprint(book_bp)
         app.register_blueprint(funcionario_bp)
